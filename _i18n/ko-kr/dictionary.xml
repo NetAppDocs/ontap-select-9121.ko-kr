@@ -2687,13 +2687,7 @@ ONTAP Select 시스템 데이터에 대한 스토리지 풀을 생성해야 합�
   <block id="f2f353da1661ba94dcbb3269b7980ee0" category="list-text">Start New Run * 을 클릭하고 HA 쌍의 호스트 및 네트워크를 선택합니다</block>
   <block id="0b30e81c88d5ec27b841310a84373595" category="paragraph">필요에 따라 HA 쌍을 더 추가하고 구성할 수 있습니다.</block>
   <block id="5f81c29f30b61204b5999a7d3c42704f" category="list-text">시작 * 을 클릭하여 네트워크 연결 테스트를 시작합니다.</block>
-  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
-  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
-  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
-  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
-  <block id="7d6b000fe1d74e81dd9df936341bd14d" category="paragraph">공지 파일에는 NetApp 소프트웨어에 사용된 타사 저작권 및 라이센스에 대한 정보가 포함되어 있습니다.</block>
   <block id="b3a281a86bd3818b168900985a901d99" category="inline-link-macro">ONTAP Select 9.12.1에 대한 고지 사항</block>
-  <block id="2e1360a35e35be9f122a138a3a87b36f" category="list-text"><block ref="2e1360a35e35be9f122a138a3a87b36f" category="inline-link-macro-rx"></block></block>
   <block id="5f21d6245c5bb0178e94ca31973b2629" category="summary">용량 계층 라이센스 모델 대신 용량 풀 라이센스 모델을 사용하면 여러 가지 이점이 있습니다.</block>
   <block id="f375253c446097df1911643c823bcebc" category="doc">이점 요약</block>
   <block id="9d7eafb0b72f9b5f7663e196c8c405d4" category="section-title">스토리지 용량의 효율적인 사용</block>
@@ -3653,7 +3647,6 @@ RAID SyncMirror(RSM)</block>
   <block id="250f6d868aabeaced76663cb583769da" category="sidebar">클러스터 관리</block>
   <block id="6a66d4f800a8576eee650d6dd676dd9d" category="sidebar">REST API 사용</block>
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">더 많은 리소스</block>
-  <block id="2cf665df8bcce3d8608ac2923c3934b2" category="sidebar">ONTAP Select 리소스 페이지 를 참조하십시오</block>
   <block id="fa0fa8503380df9df5c58ad57a531ff5" category="sidebar">ONTAP Select 제품 라이브러리</block>
   <block id="c09b5be4c2da04f4040eef1878f258aa" category="sidebar">ONTAP 9 설명서</block>
   <block id="5c7750df890d8a1ae46102a5c56d163d" category="sidebar">ONTAP Select 블로그</block>
@@ -3793,4 +3786,14 @@ RAID SyncMirror(RSM)</block>
   <block id="9b9568babf180c232b393ba5f95ff4c3" category="paragraph">용량 풀 구독이 만료된 경우 시스템은 먼저 경고를 표시하지만 30일 후에 시스템을 종료하면 배포 서버에 업데이트된 구독이 설치될 때까지 재부팅되지 않습니다.</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 이상에서는 이제 최대 16개의 관계로 SVM DR을 소스와 대상에서 모두 지원합니다. SVM DR 지원은 소스 ONTAP 버전을 사용하는 버전 + 2로 제한됩니다. 예를 들어 ONTAP Select 9.12.1 소스는 대상 ONTAP 버전 9.12.1, 9.13.1 또는 9.14.1에 연결할 수 있습니다.</block>
   <block id="3133aa76a6118a1bc0b33763ed135b4e" category="sidebar">ONTAP Select 9.12.1 설명서</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">통지 파일은 NetApp 소프트웨어에 사용된 타사의 저작권 및 라이센스에 대한 정보를 제공합니다.</block>
+  <block id="6f7ee2dcac0389ff194542776ea48cf9" category="paragraph"><block ref="6f7ee2dcac0389ff194542776ea48cf9" category="inline-link-rx"></block></block>
 </blocks>
